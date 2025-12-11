@@ -6,7 +6,6 @@
       "use": "@vercel/next"
     }
   ]
-}
 {
   "version": 2,
   "framework": "nextjs"
